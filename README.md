@@ -77,5 +77,5 @@ OR
 * [Tristan Brennan](https://github.com/tristanbrennan)
 
 ## License
-The project uses this following license: [GNU General Public License v3.0](https://github.com/2011Canada/project-2-team5-backend/blob/main/LICENSE)
+The project uses this following license: [GNU General Public License v3.0](https://github.com/Hammad15/SPYBOOK/blob/main/LICENSE)
 
